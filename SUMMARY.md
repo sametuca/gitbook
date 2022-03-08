@@ -56,16 +56,13 @@
   * [JQuery Script](developer/javascript/jquery-script.md)
   * [Simple](developer/javascript/simple/README.md)
     * [Link tanımlamalarını fonksiyon üzerinde yap](developer/javascript/simple/link-tanimlamalarini-fonksiyon-uezerinde-yap.md)
-  * [Flutter](developer/javascript/flutter.md)
-  * [React](developer/javascript/react/README.md)
-    * [Yeni Bir Proje Oluşturma](developer/javascript/react/yeni-bir-proje-olusturma.md)
-    * [Bootstrap Entegre Etme](developer/javascript/react/bootstrap-entegre-etme.md)
-    * [Eklentiler](developer/javascript/react/eklentiler.md)
   * [JQuery](developer/javascript/jquery/README.md)
     * [Jquery OMDB API](developer/javascript/jquery/jquery-omdb-api.md)
-    * [flutter api](developer/javascript/jquery/flutter-api.md)
   * [Javascript Asenkron Yaklaşım](developer/javascript/javascript-asenkron-yaklasim.md)
   * [Creation Phase ve Execution Phase](developer/javascript/creation-phase-ve-execution-phase.md)
+  * [Array destructuring](developer/javascript/array-destructuring.md)
+  * [Browserify - CommonJS](developer/javascript/browserify-commonjs.md)
+  * [NPM Detay](developer/javascript/npm-detay.md)
 
 ## SQL Server
 
