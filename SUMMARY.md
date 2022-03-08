@@ -1,19 +1,17 @@
 # Table of contents
 
-* [Ana Sayfa](README.md)
-
 ## Virtualization
 
-* [Notlar](virtualization/notlar/README.md)
-  * [Load Balancing](virtualization/notlar/load-balancing.md)
-  * [Hyper-V Notlarim](virtualization/notlar/hyper-v-notlarim.md)
-  * [Hyper-V Live Migration](virtualization/notlar/hyper-v-live-migration.md)
-  * [Failover Cluster](virtualization/notlar/failover-cluster.md)
+* [📁 VT Notlar](README.md)
+  * [Load Balancing](virtualization/vt-notlar/load-balancing.md)
+  * [Hyper-V Notlarim](virtualization/vt-notlar/hyper-v-notlarim.md)
+  * [Hyper-V Live Migration](virtualization/vt-notlar/hyper-v-live-migration.md)
+  * [Failover Cluster](virtualization/vt-notlar/failover-cluster.md)
 
 ## Programming Language <a href="#developer" id="developer"></a>
 
-* [SignalR](developer/signalr.md)
-* [C#](developer/.net/README.md)
+* [🗂 SignalR](developer/signalr.md)
+* [🗂 C#](developer/.net/README.md)
   * [Cors Politikası \[Kors\]](developer/.net/cors-politikasi-kors.md)
   * [Upgrade Lang Version](developer/.net/upgrade-lang-version.md)
   * [Validator](developer/.net/validator.md)
@@ -51,7 +49,7 @@
   * [Single İf-Else](developer/.net/single-if-else.md)
   * [Params](developer/.net/params.md)
   * [DNS Adresini Bulma](developer/.net/dns-adresini-bulma.md)
-* [JavaScript](developer/javascript/README.md)
+* [🗂 JavaScript](developer/javascript/README.md)
   * [Subscribe, Observable](developer/javascript/subscribe-observable.md)
   * [JQuery Script](developer/javascript/jquery-script.md)
   * [Simple](developer/javascript/simple/README.md)
@@ -67,8 +65,8 @@
 
 ## SQL Server
 
-* [TSQL Notlarim](sql-server/tsql-notlarim.md)
-* [Northwind Veritabanı](sql-server/northwind-veritabani.md)
+* [🗂 TSQL Notlarim](sql-server/tsql-notlarim.md)
+* [🦄 Northwind Veritabanı](sql-server/northwind-veritabani.md)
 
 ## Tools
 
