@@ -63,6 +63,7 @@
   * [Array destructuring](developer/javascript/array-destructuring.md)
   * [Browserify - CommonJS](developer/javascript/browserify-commonjs.md)
   * [NPM Detay](developer/javascript/npm-detay.md)
+  * [Prototype](developer/javascript/prototype.md)
 
 ## SQL Server
 
