@@ -21,3 +21,7 @@ Add the following line in `settings.json`
 ```
 "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline"
 ```
+
+yada&#x20;
+
+"editor.fontFamily": "Meslo LG M DZ for Powerline",
