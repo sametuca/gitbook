@@ -49,6 +49,7 @@
   * [Single İf-Else](developer/.net/single-if-else.md)
   * [Params](developer/.net/params.md)
   * [DNS Adresini Bulma](developer/.net/dns-adresini-bulma.md)
+* [Poliformizm](developer/poliformizm.md)
 * [🗂 JavaScript](developer/javascript/README.md)
   * [Subscribe, Observable](developer/javascript/subscribe-observable.md)
   * [JQuery Script](developer/javascript/jquery-script.md)
