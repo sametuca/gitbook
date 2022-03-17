@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🗂 SignalR
+# 📂 SignalR
 
 İlk olarak bir hub sınıfı türetilir. Bu sınıf clientler arasındaki ilişkiyi sağlayacaktır.
 

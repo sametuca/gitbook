@@ -50,6 +50,8 @@
   * [Params](developer/.net/params.md)
   * [DNS Adresini Bulma](developer/.net/dns-adresini-bulma.md)
   * [Poliformizm](developer/.net/poliformizm.md)
+  * [Ado.NET](developer/.net/ado.net/README.md)
+    * [Ado.NET Command Type](developer/.net/ado.net/ado.net-command-type.md)
 * [📂 JavaScript](developer/javascript/README.md)
   * [Subscribe, Observable](developer/javascript/subscribe-observable.md)
   * [JQuery Script](developer/javascript/jquery-script.md)
