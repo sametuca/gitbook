@@ -12,6 +12,9 @@
 
 * [📂 SignalR](developer/signalr.md)
 * [📂 C#](developer/.net/README.md)
+  * [JWT Notlarım](developer/.net/jwt-notlarim.md)
+  * [DI](developer/.net/di/README.md)
+    * [Interface isteyene context ver](developer/.net/di/interface-isteyene-context-ver.md)
   * [Cors Politikası \[Kors\]](developer/.net/cors-politikasi-kors.md)
   * [Upgrade Lang Version](developer/.net/upgrade-lang-version.md)
   * [Validator](developer/.net/validator.md)
@@ -35,7 +38,6 @@
     * [Başlarken](developer/.net/entityframework/entity-framework.md)
     * [Bağlantı Ayarları - Migrations](developer/.net/entityframework/baglanti-ayarlari.md)
     * [Repository Pattern With FUNC](developer/.net/entityframework/repository-pattern-with-func.md)
-  * [Interface isteyene context ver](developer/.net/interface-isteyene-context-ver.md)
   * [Microsoft Resmi](developer/.net/microsoft-resmi/README.md)
     * [Bir stringin başında veya sonunda arama yapmak](developer/.net/microsoft-resmi/bir-stringin-basinda-veya-sonunda-arama-yapmak.md)
     * [replace kullanımı](developer/.net/microsoft-resmi/replace-kullanimi.md)
