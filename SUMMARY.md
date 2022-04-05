@@ -14,7 +14,7 @@
 * [📂 C#](developer/.net/README.md)
   * [JWT Notlarım](developer/.net/jwt-notlarim.md)
   * [DI](developer/.net/di/README.md)
-    * [Interface isteyene context ver](developer/.net/di/interface-isteyene-context-ver.md)
+    * [Interface isteyene context ver](developer/.net/interface-isteyene-context-ver.md)
   * [Cors Politikası \[Kors\]](developer/.net/cors-politikasi-kors.md)
   * [Upgrade Lang Version](developer/.net/upgrade-lang-version.md)
   * [Validator](developer/.net/validator.md)
