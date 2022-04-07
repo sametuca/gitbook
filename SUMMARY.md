@@ -12,6 +12,7 @@
 
 * [📂 SignalR](developer/signalr.md)
 * [📂 C#](developer/.net/README.md)
+  * [Karışık](developer/.net/karisik.md)
   * [JWT Notlarım](developer/.net/jwt-notlarim.md)
   * [DI](developer/.net/di/README.md)
     * [Interface isteyene context ver](developer/.net/interface-isteyene-context-ver.md)
