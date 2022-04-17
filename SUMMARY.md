@@ -39,6 +39,7 @@
     * [Başlarken](developer/.net/entityframework/entity-framework.md)
     * [Bağlantı Ayarları - Migrations](developer/.net/entityframework/baglanti-ayarlari.md)
     * [Repository Pattern With FUNC](developer/.net/entityframework/repository-pattern-with-func.md)
+    * [Karışık](developer/.net/entityframework/karisik.md)
   * [Microsoft Resmi](developer/.net/microsoft-resmi/README.md)
     * [Bir stringin başında veya sonunda arama yapmak](developer/.net/microsoft-resmi/bir-stringin-basinda-veya-sonunda-arama-yapmak.md)
     * [replace kullanımı](developer/.net/microsoft-resmi/replace-kullanimi.md)

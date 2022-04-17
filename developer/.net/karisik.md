@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Karışık
 
 ![](<../../.gitbook/assets/func delege.png>)
