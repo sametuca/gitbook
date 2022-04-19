@@ -16,7 +16,7 @@ Token neye göre dağıtılır?
 
 
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 Kullanıcı için özel bilgiler token içinde tutulmaz. Mesela şifre tutulmamalıdır.
 
