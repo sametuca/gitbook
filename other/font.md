@@ -1,10 +1,9 @@
 ---
 description: https://itnext.io/11-best-programming-fonts-724283a9ed57
+coverY: 0
 ---
 
 # Font
-
-
 
 Install the following font from here
 
@@ -22,6 +21,6 @@ Add the following line in `settings.json`
 "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline"
 ```
 
-yada&#x20;
+yada
 
 "editor.fontFamily": "Meslo LG M DZ for Powerline",
