@@ -13,5 +13,4 @@ Console.WriteLine($"[{trimmedGreeting}]");
 trimmedGreeting = greeting.Trim();
 Console.WriteLine($"[{trimmedGreeting}]");
 
-
 ```
