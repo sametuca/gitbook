@@ -50,6 +50,3 @@ public ActionResult Index()
 TempData\["products"];
 
 Cookie şeklinde olduğundan farklı bir action arası veri tasıma yapılabilir. Verinin serilize edilmesi gerekir. Eğer düz bir değişken gönderilecekse serilise edilmesine gerek yoktur.
-
-
-

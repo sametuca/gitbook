@@ -1,6 +1,6 @@
 # JWT Notlarım
 
-![](../../.gitbook/assets/Screenshot\_1.png)
+![](../../../.gitbook/assets/Screenshot\_1.png)
 
 Bir yapı API ile besleniyorsa token bazlı olmalı. Mesela mobil ve javascript frameworkleri ile yazılmış olan uygulamalar.
 
@@ -14,9 +14,7 @@ Token neye göre dağıtılır?
 * Bu gelen token client tarafında localstorage içerisine kaydolur.
 * Artık elimizde bir token var. Token string bir ifadedir. İçinde hangi yetkilere sahip olduğumuz gibi hangi api lere istek atabileceğimize yönelik bilgiler bulunabilir.
 
-
-
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 Kullanıcı için özel bilgiler token içinde tutulmaz. Mesela şifre tutulmamalıdır.
 
@@ -26,7 +24,7 @@ Gelen istek geçerli ise isteğe cevap verilir. Tokenin ömrü dolduysa veya ge�
 
 401 -> kimlik yetkilendirmede bir problem var anlamına gelir.
 
-AuthServer kendi veritabanında üyelik sistemini tutar.&#x20;
+AuthServer kendi veritabanında üyelik sistemini tutar.
 
 **Token her kullanıcıya özgüdür. Token içerisinde Kullanıcı identity olabilir.**
 
@@ -65,13 +63,6 @@ Kullanıcı bir API’ya kendisini doğrulattıktan sonra kendisine (MAC, IP vey
 * **Basic** içerisinde ( _Authorization: Basic BFEBFBFF000506E3-QCQRL1061100G3_),
 * **Query String** (_?apikey=BFEBFBFF000506E3-QCQRL1061100G3_),
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
-
-
-
-
-****
-
-
-
+***

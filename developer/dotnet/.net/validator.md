@@ -1,6 +1,6 @@
 # Validator
 
-ValiditionRules klasörünün içerisine
+ValiditionRules klasörünün içerisine
 
 FluentValidation klasörü açılır ve içerisine bir class türetilir.
 
@@ -22,6 +22,6 @@ RuleFor(p=>p.UnitPrice).GreaterThan(0); -< sıfırdan büyük olmalı
 
 RuleFor(p=>p.UnitPrice).GreaterThan(10).When(p=>p.CategoryId ==2);
 
-![](../../.gitbook/assets/add.png)
+![](../../../.gitbook/assets/add.png)
 
-![](../../.gitbook/assets/validatortool.png)
+![](../../../.gitbook/assets/validatortool.png)

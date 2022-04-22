@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Web API EF Core Code First Link
 
 ```
