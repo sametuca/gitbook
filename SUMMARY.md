@@ -71,6 +71,8 @@
 ## SQL Server
 
 * [📂 TSQL Notlarim](sql-server/tsql-notlarim.md)
+* [📂 Redis](sql-server/redis/README.md)
+  * [Redis Komutlar](sql-server/redis/redis-komutlar.md)
 * [🔮 Northwind Veritabanı](sql-server/northwind-veritabani.md)
 
 ## Other
