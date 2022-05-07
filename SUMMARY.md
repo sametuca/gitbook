@@ -40,6 +40,7 @@
     * [Trim Kullanımı](dotnet/.net/microsoft-resmi/trim-kullanimi.md)
   * [JWT Notlarım](dotnet/.net/jwt-notlarim.md)
   * [Karışık](dotnet/.net/karisik.md)
+  * [IEnumerable Vs IQueryable In LINQ](dotnet/.net/ienumerable-vs-iqueryable-in-linq.md)
   * [SignalR](dotnet/.net/signalr.md)
   * [Cors Politikası \[Kors\]](dotnet/.net/cors-politikasi-kors.md)
   * [Upgrade Lang Version](dotnet/.net/upgrade-lang-version.md)
