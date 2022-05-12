@@ -4,7 +4,7 @@ Parentten child componente veri taşınabilir.
 
 [https://angular.io/guide/inputs-outputs](https://angular.io/guide/inputs-outputs)
 
-![](<../../../.gitbook/assets/Screen Shot 2022-05-13 at 01.10.53.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-05-13 at 01.10.53.png>)
 
 
 
