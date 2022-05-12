@@ -60,6 +60,8 @@
     * [Jquery OMDB API](javascript/javascript/jquery/jquery-omdb-api.md)
   * [📂 Basit](javascript/javascript/simple/README.md)
     * [Link tanımlamalarını fonksiyon üzerinde yap](javascript/javascript/simple/link-tanimlamalarini-fonksiyon-uezerinde-yap.md)
+  * [📂 Angular](javascript/javascript/angular/README.md)
+    * [@İnput](javascript/javascript/angular/input.md)
   * [Subscribe, Observable](javascript/javascript/subscribe-observable.md)
   * [JQuery Script](javascript/javascript/jquery-script.md)
   * [Javascript Asenkron Yaklaşım](javascript/javascript/javascript-asenkron-yaklasim.md)
