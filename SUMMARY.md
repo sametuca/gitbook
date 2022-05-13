@@ -76,7 +76,12 @@
 
 ## SQL Server
 
-* [📂 TSQL Notlarim](sql-server/tsql-notlarim.md)
+* [📂 TSQL Notlarim](sql-server/tsql-notlarim/README.md)
+  * [Insert](sql-server/tsql-notlarim/insert.md)
+  * [Update](sql-server/tsql-notlarim/update.md)
+  * [Delete](sql-server/tsql-notlarim/delete.md)
+  * [Distinct(Tekrarları yoksay)](sql-server/tsql-notlarim/distinct-tekrarlari-yoksay.md)
+  * [Joining](sql-server/tsql-notlarim/joining.md)
 * [📂 Redis](sql-server/redis/README.md)
   * [Redis Komutlar](sql-server/redis/redis-komutlar.md)
 * [🔮 Northwind Veritabanı](sql-server/northwind-veritabani.md)
