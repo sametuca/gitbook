@@ -15,7 +15,7 @@ You have to use WHERE clause with DELETE query to delete selected rows, otherwis
 
 Following is the basic syntax of DELETE query with WHERE clause −
 
-[ADVERTISEMENT BY ADRECOVER](https://adrecover.com)
+[ADVERTISEMENT BY ADRECOVER](https://adrecover.com/?utm\_campaign=ByAdRecover\&utm\_source=www.tutorialspoint.com\&utm\_medium=ByAdRecover-320)
 
 ```
 DELETE FROM table_name 
@@ -26,7 +26,7 @@ You can combine N number of conditions using AND or OR operators.
 
 ### Example
 
-[ADVERTISEMENT BY ADRECOVER](https://adrecover.com)
+[ADVERTISEMENT BY ADRECOVER](https://adrecover.com/?utm\_campaign=ByAdRecover\&utm\_source=www.tutorialspoint.com\&utm\_medium=ByAdRecover-320)
 
 Consider the CUSTOMERS table having the following records −
 

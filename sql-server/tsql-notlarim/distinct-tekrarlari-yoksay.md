@@ -10,7 +10,7 @@ There may be a situation when you have multiple duplicate records in a table. Wh
 
 Following is the basic syntax of DISTINCT keyword to eliminate duplicate records.
 
-[ADVERTISEMENT BY ADRECOVER](https://adrecover.com)
+[ADVERTISEMENT BY ADRECOVER](https://adrecover.com/?utm\_campaign=ByAdRecover\&utm\_source=www.tutorialspoint.com\&utm\_medium=ByAdRecover-320)
 
 ```
 SELECT DISTINCT column1, column2,.....columnN  
@@ -33,7 +33,7 @@ ID  NAME       AGE       ADDRESS            SALARY
 7   Muffy      24        Indore             10000.00 
 ```
 
-[ADVERTISEMENT BY ADRECOVER](https://adrecover.com)
+[ADVERTISEMENT BY ADRECOVER](https://adrecover.com/?utm\_campaign=ByAdRecover\&utm\_source=www.tutorialspoint.com\&utm\_medium=ByAdRecover-320)
 
 Let us see how the following SELECT query returns duplicate salary records.
 

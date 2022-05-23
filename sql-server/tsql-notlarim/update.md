@@ -22,7 +22,7 @@ You can combine N number of conditions using AND or OR operators.
 
 ### Example
 
-[ADVERTISEMENT BY ADRECOVER](https://adrecover.com)
+[ADVERTISEMENT BY ADRECOVER](https://adrecover.com/?utm\_campaign=ByAdRecover\&utm\_source=www.tutorialspoint.com\&utm\_medium=ByAdRecover-320)
 
 Consider the CUSTOMERS table having the following records −
 

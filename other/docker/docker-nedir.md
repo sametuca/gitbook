@@ -46,7 +46,7 @@ Temel olarak konteyner, imajın çalıştırılabilir örneğidir. Docker Rest A
 
 **Docker Registry**
 
-Docker, imaj dosyalarını Docker Registry’de depolar. [Docker Hub](https://hub.docker.com) da imaj dosyalarını alıp kullanabildiğimiz, yeni imaj dosyaları yükleyip konfigüre edebildiğimiz public bir registry’dir. Bunun yanısıra private registry de oluşturabilir ve imajlarımızı bunun üzerinden depolayabiliriz.
+Docker, imaj dosyalarını Docker Registry’de depolar. [Docker Hub](https://hub.docker.com/) da imaj dosyalarını alıp kullanabildiğimiz, yeni imaj dosyaları yükleyip konfigüre edebildiğimiz public bir registry’dir. Bunun yanısıra private registry de oluşturabilir ve imajlarımızı bunun üzerinden depolayabiliriz.
 
 ![](https://miro.medium.com/max/1400/1\*pebo5ZC35HDY6osrty5F8A.png)2.1 Docker Registry
 

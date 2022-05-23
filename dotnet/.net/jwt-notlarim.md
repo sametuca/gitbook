@@ -14,7 +14,7 @@ Token neye göre dağıtılır?
 * Bu gelen token client tarafında localstorage içerisine kaydolur.
 * Artık elimizde bir token var. Token string bir ifadedir. İçinde hangi yetkilere sahip olduğumuz gibi hangi api lere istek atabileceğimize yönelik bilgiler bulunabilir.
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 Kullanıcı için özel bilgiler token içinde tutulmaz. Mesela şifre tutulmamalıdır.
 
