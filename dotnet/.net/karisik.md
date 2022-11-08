@@ -4,6 +4,14 @@ coverY: 0
 
 # Karışık
 
+![](../../.gitbook/assets/badCode.png)
+
+
+
+![](<../../.gitbook/assets/cleanMidCode (2).png>)
+
+![](<../../.gitbook/assets/cleanCode (1).png>)
+
 ![](<../../.gitbook/assets/func delege.png>)
 
 ![](../../.gitbook/assets/sqlDataAdapter.png)
